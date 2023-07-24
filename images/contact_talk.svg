@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="50px" height="50px" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
+<g>
+	<path fill="#B4A9D8" d="M104.18,38.002c0,1.338-1.084,2.42-2.42,2.42H61.24c-1.336,0-2.42-1.082-2.42-2.42V11.996
+		c0-1.335,1.084-2.418,2.42-2.418h40.52c1.336,0,2.42,1.083,2.42,2.418V38.002z"/>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M104.18,38.002c0,1.338-1.084,2.42-2.42,2.42H61.24c-1.336,0-2.42-1.082-2.42-2.42V11.996
+				c0-1.335,1.084-2.418,2.42-2.418h40.52c1.336,0,2.42,1.083,2.42,2.418V38.002z"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#SVGID_2_)" fill="#B4A9D8" stroke="#FFFFF4" stroke-width="2" stroke-miterlimit="10" points="
+			81.5,23.445 67.242,34.785 52.984,46.123 81.5,46.123 110.016,46.123 95.758,34.785 		"/>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_3_" d="M104.18,38.002c0,1.338-1.084,2.42-2.42,2.42H61.24c-1.336,0-2.42-1.082-2.42-2.42V11.996
+				c0-1.335,1.084-2.418,2.42-2.418h40.52c1.336,0,2.42,1.083,2.42,2.418V38.002z"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#SVGID_4_)" fill="#B4A9D8" stroke="#FFFFF4" stroke-width="2" stroke-miterlimit="10" points="
+			81.5,28.273 67.242,18.126 52.984,7.98 81.5,7.98 110.016,7.98 95.758,18.126 		"/>
+	</g>
+</g>
+<ellipse fill="#B4A9D8" cx="25" cy="21.708" rx="23.182" ry="16.861"/>
+<g>
+	<text transform="matrix(0.9998 0 0 1 7.3745 27.0703)" fill="#FFFFF4" font-family="'Cafe24Ssurround'" font-size="14.6322">TA</text>
+	<text transform="matrix(0.9998 0 0 1 24.1494 27.0703)" fill="#FFFFF4" font-family="'Cafe24Ssurround'" font-size="14.6322">L</text>
+	<text transform="matrix(0.9998 0 0 1 32.4619 27.0703)" fill="#FFFFF4" font-family="'Cafe24Ssurround'" font-size="14.6322">K</text>
+</g>
+<polygon fill="#B4A9D8" points="11.753,32.005 16.717,33.097 21.683,34.188 15.628,38.059 9.574,41.932 10.663,36.97 "/>
+<path fill="#B4A9D8" d="M-27.851,32.514l-4.555,3.266c-0.184,0.093-0.359,0.2-0.525,0.312c-2.302-2.523-3.913-5.716-5.217-7.937
+	c-1.573-3.448-2.767-6.884-3.142-8.959c0.19-0.065,0.381-0.141,0.568-0.229l5.357-1.64c3.443-1.285,3.672-4.427,2.783-6.101
+	l-2.787-5.802c-1.154-2.401-4.037-3.414-6.441-2.263l-5.134,2.466c-1.62,0.776-2.547,2.542-3.081,4.016
+	c-0.529,1.712-1.377,6.649-0.134,12.991c0.548,2.806,1.659,6.141,3.517,9.726c1.915,3.813,3.697,6.557,5.595,8.695
+	c4.288,4.836,8.726,7.159,10.409,7.778c1.494,0.47,3.461,0.804,5.059-0.015l5.078-2.584c2.375-1.211,3.318-4.117,2.109-6.491
+	l-2.922-5.736C-22.104,32.283-24.739,30.556-27.851,32.514z"/>
+</svg>
